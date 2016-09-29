@@ -1,0 +1,5 @@
+C:\temp\SOLID_prova\EP.SOLID\bin\Debug\EP.SOLID.exe
+C:\temp\SOLID_prova\EP.SOLID\bin\Debug\EP.SOLID.pdb
+C:\temp\SOLID_prova\EP.SOLID\obj\Debug\EP.SOLID.csprojResolveAssemblyReference.cache
+C:\temp\SOLID_prova\EP.SOLID\obj\Debug\EP.SOLID.exe
+C:\temp\SOLID_prova\EP.SOLID\obj\Debug\EP.SOLID.pdb
